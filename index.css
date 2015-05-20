@@ -1,0 +1,22 @@
+
+
+body {
+	text-align: center;
+	background-color: #d0e4fe;
+	color: black;
+	background-image: url("motorcycle2.png");
+}
+
+p {
+	font-size: 40px;
+	font-style: "Times New Roman";
+}
+
+.blueText {
+	color: blue;
+}
+
+#time {
+	font-size: 40px;
+}
+
